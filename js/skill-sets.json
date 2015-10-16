@@ -1,0 +1,13 @@
+[
+	{"skillSetsHead": "Language:", "skillSetsType": "HTML5, HTML, XHTML, DHTML, JSON, XML, XSLT, XSL, CSS, CSS3, OO JavaScript, jQuery, AJAX"},
+	{"skillSetsHead": "CSS Preprocessors:", "skillSetsType": "LESS, SASS"},
+	{"skillSetsHead": "knowledge about:", "skillSetsType": "Backbone JS, Require JS, Handlebars, angular JS"},
+	{"skillSetsHead": "Designing Tools:", "skillSetsType": "Photoshop, illustrator."},
+	{"skillSetsHead": "Browser Comparability:", "skillSetsType": "IE, FF, Chrome, Opera, Window Safari, Mac Safari, Netscape"},
+	{"skillSetsHead": "IDE:", "skillSetsType": "Dreamweaver, Visual Studio 2008/2010."},
+	{"skillSetsHead": "Version Control:", "skillSetsType": "SVN, GIT"},
+	{"skillSetsHead": "Developer Tools:", "skillSetsType": "Firebug, Web developer, IE Developer tool"},
+	{"skillSetsHead": "Accessibility:", "skillSetsType": "WAI-ARIA, JAWS Screen reader"},
+	{"skillSetsHead": "CMS:", "skillSetsType": "Sitefinity, Wordpress, Joomla, Net Dev Plus, Magento, SiteCore."},
+	{"skillSetsHead": "Font-end Framework:", "skillSetsType": "Twitter Bootstrap, Zurb Foundation."}
+]

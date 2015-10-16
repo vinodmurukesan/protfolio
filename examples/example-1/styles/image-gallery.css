@@ -1,0 +1,82 @@
+html,
+body,
+main,
+section,
+figure,
+figcaption,
+a {
+	margin:0;
+	padding:0;
+}
+
+body{
+	font-family:arial;
+	font-size:80%;
+	background: #ffffff;
+}
+
+
+figure,
+figcaption,
+a,
+img {
+	float:left;
+}
+a{
+	text-decoration: none;
+	color:#ffffff;
+}
+
+section {
+	width:990px;
+	overflow:hidden;
+	margin:50px auto;
+}
+
+figure{
+	position:relative;
+	width:24%;
+	margin:0.5% 0.5% 0.5% 0.5%;
+}
+figure a,
+figure img {
+	width:100%;
+}
+
+section figure img:hover {
+    opacity: 0.4;
+    filter: alpha(opacity=40); /* For IE8 and earlier */
+}
+
+figcaption{
+	position:absolute;
+	bottom:0;
+	left:0;
+	padding:10px 0 10px 0;
+	width:100%;
+	background: url(../images/black-opacity.png) repeat left top;
+	text-align: center;
+	color:#ffffff;
+	font-size:200%;
+	font-weight: 100;
+	font-family: helvetica;
+}
+
+.popup {
+	float:left;
+	width:100%;
+	background: #ffffff;
+	color:#4e4f53;
+	display: none;
+}
+.popup p {
+	float:left;
+	width:100%;
+}
+.popup p strong {
+	font-size:200%;
+	font-weight: normal;
+}
+.popup figure {
+	width:100%;
+}
